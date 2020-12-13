@@ -34,7 +34,7 @@ using ( - or *)
  
  
  
- I'm Rama Yaser Odetallah 
+ I'm Rama Yaser Odetallah. I am a Chemical Engineer,
  and here is my [GitHub account](https://github.com/ramayaser66)
  
  
