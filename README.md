@@ -32,6 +32,15 @@ using (~~ ~~ )
 using ( - or *) 
  and many others 
  
+ #### the installation party 
+ 
+  *for the second part of our course we focused on installing some programs that will be our main concern like the Command line interface (terminal)
+  and Visual studio code. we also focused on Setting up WSL Version 2 and the Ubuntu app and it was a very long process 
+  these programs require certain tools that had to be installed like Homebrew,gcc,Node & NPM, Git, live-server, Tree and ESLin.this process involved a lot of complicated codes that later was checked and inspected for its latest version and that it its runnung correctly.* 
+  
+ 
+ 
+ 
  
  
  I'm Rama Yaser Odetallah . I am a Chemical Engineer
