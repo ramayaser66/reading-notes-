@@ -10,7 +10,7 @@
         -Pursue any opportunity to change for the best.
         -Test my abilities believe I can accomplish more.
    
- ### About my course today 
+ ### About my course today (13/12/2020) 
 #### Markdown 
 *Like HTML it's a markup language but not a programming language ( it doesn't use tags and doesn't do functions ). 
 It is light weighted language, easy control and faster to use. 
