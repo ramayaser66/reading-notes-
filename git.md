@@ -15,6 +15,6 @@ when it is on your computer you can edite and change what ever you want.
  - git clone, to copy and clone the thing you want 
  - git status, to show the current status of the cloned item on your computer 
  - git add, add new changes 
- - git comit .m, the changes are saved locally 
+ - git commit .m, the changes are saved locally 
  - git push origin"", to push everything on the cloud 
  
