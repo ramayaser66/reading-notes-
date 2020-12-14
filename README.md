@@ -1,6 +1,6 @@
 # reading-notes-
 
-
+![my notes](/2wCEAAkGBw0NDQ0NDQ0NDg4NDg0ODg4ODRAODQ8NFREWGBURFRMYHSghGBolGxkVJDEtJSktLi4uFx8zRDYtNygtLjcBCgoKDg0OFxAQGi0lHh4tLSsvListKy0tLS0tLS4tLS0vKy0tKy0tLSsrLS0tLSsrLS0tLS0tLS0tLS0tLS0tK/)
 ## Growth Mindset 
    *A Mindset is a state of mind. Where you are right now, what actions you take, and the choices you make. It is simply how one should always embrace change and be open to new possibilities. growth is achieved by effort and perseverance.*
   
@@ -43,7 +43,7 @@ using ( - or *)
  
  
  
- I'm Rama Yaser Odetallah . I am a Chemical Engineer
+ I'm Rama Yaser Odetallah . I am a Chemical Engineer :+1: 
  and here is my [GitHub account](https://github.com/ramayaser66)
  
  
