@@ -9,11 +9,13 @@
 
 what I have learned so far:
  
-- [Markdown]() 
-- [coder's computer]()
-- [Git & Github]()
-- [Html]()
-- [git]()
+- [Markdown](https://ramayaser66.github.io/reading-notes-/marckdown) 
+---------------------------------------------------------------------------------
+- [coder's computer](https://ramayaser66.github.io/reading-notes-/coder's%20computer)
+-------------------------------------------------------------------------------------
+- [Html](https://ramayaser66.github.io/reading-notes-/HTML)
+----------------------------------------------------------------------
+- [git](https://ramayaser66.github.io/reading-notes-/git)
 
 
 
