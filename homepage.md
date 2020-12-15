@@ -19,4 +19,5 @@ what I have learned so far:
 ______________________________________________________________________________
 - [Css](https://ramayaser66.github.io/reading-notes-/css)
 -------------------------------------------------------------------------
-- [JavaScript]()
+- [JavaScript](https://ramayaser66.github.io/reading-notes-/javascript)
+
