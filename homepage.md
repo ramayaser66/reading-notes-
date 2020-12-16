@@ -21,3 +21,4 @@ ______________________________________________________________________________
 -------------------------------------------------------------------------
 - [JavaScript](https://ramayaser66.github.io/reading-notes-/javascript)
 
+- [JavaScript2](https://ramayaser66.github.io/reading-notes-/javascript2)
