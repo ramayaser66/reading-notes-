@@ -18,8 +18,11 @@ what I have learned so far:
 - [git](https://ramayaser66.github.io/reading-notes-/git)
 _____________________________________________________________________________________
 - [Css](https://ramayaser66.github.io/reading-notes-/css)
--------------------------------------------------------
+------------------------------------------------------------------------------------
 - [JavaScript](https://ramayaser66.github.io/reading-notes-/javascript)
-_______________________________________________________________________________
+_______________________________________________________________________________________
 
 - [JavaScript2](https://ramayaser66.github.io/reading-notes-/javascript2)
+___________________________________________________________________________________
+
+- [operators and loops](https://ramayaser66.github.io/reading-notes-/Operators%20and%20loops)
